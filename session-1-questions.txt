@@ -1,0 +1,5 @@
+1. Why have you decided to learn Git and GitHub?
+It is a keystone skill I need my cybersecurity students to be proficient with.
+
+2. How do you plan to use GitHub in your classroom?
+As a recurring tool for any code project, but also research projects, design activities...
