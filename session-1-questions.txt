@@ -3,3 +3,6 @@ It is a keystone skill I need my cybersecurity students to be proficient with.
 
 2. How do you plan to use GitHub in your classroom?
 As a recurring tool for any code project, but also research projects, design activities...
+
+3. What are ways that GitHub might help you and your students manage code?
+Experience
